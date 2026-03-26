@@ -1,0 +1,53 @@
+🚆 Travel Booking System (DBMS Project)
+
+📌 Description
+
+This project is a Travel Booking System developed using MySQL. It manages customer bookings, travel schedules, and payments efficiently.
+
+---
+
+📊 Features
+
+- Customer Registration
+- Travel Search
+- Ticket Booking
+- Payment Management
+- Seat Availability Tracking
+- Automatic Seat Update (Triggers)
+
+---
+
+🗂️ Database Tables
+
+- Customers
+- Travel
+- Booking
+- Payment
+
+---
+
+⚙️ Technologies Used
+
+- MySQL (SQL)
+- DBMS Concepts
+
+---
+
+📈 ER Diagram
+
+(Add ER diagram image here)
+
+---
+
+🚀 Future Scope
+
+- Mobile App Development
+- AI-based Recommendations
+- Online Payment Integration
+- Cloud Database
+
+---
+
+👨‍💻 Author
+
+Tushar Kumar
